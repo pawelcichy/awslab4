@@ -1,4 +1,4 @@
-Laboratorium Amazon Web Services2
+Laboratorium Amazon Web Services
 ==============================
 
 Laboratorium 4 - Simple Storage System S3
